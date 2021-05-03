@@ -1,0 +1,7 @@
+C:\Users\kaan5\source\repos\hepsi\Hepsiburada_Mars_Project\bin\Debug\Hepsiburada_Mars_Project.exe.config
+C:\Users\kaan5\source\repos\hepsi\Hepsiburada_Mars_Project\bin\Debug\Hepsiburada_Mars_Project.exe
+C:\Users\kaan5\source\repos\hepsi\Hepsiburada_Mars_Project\bin\Debug\Hepsiburada_Mars_Project.pdb
+C:\Users\kaan5\source\repos\hepsi\Hepsiburada_Mars_Project\obj\Debug\Hepsiburada_Mars_Project.csprojAssemblyReference.cache
+C:\Users\kaan5\source\repos\hepsi\Hepsiburada_Mars_Project\obj\Debug\Hepsiburada_Mars_Project.csproj.CoreCompileInputs.cache
+C:\Users\kaan5\source\repos\hepsi\Hepsiburada_Mars_Project\obj\Debug\Hepsiburada_Mars_Project.exe
+C:\Users\kaan5\source\repos\hepsi\Hepsiburada_Mars_Project\obj\Debug\Hepsiburada_Mars_Project.pdb

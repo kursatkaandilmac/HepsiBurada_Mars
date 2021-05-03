@@ -1,0 +1,17 @@
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Hepsiburada_Mars_Project.exe
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Hepsiburada_Mars_Project.pdb
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Hepsiburada_Mars_Project.exe.config
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\kaan5\source\repos\hepsi\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

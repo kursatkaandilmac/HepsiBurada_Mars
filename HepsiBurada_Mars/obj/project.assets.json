@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaan5\\source\\repos\\HepsiBurada_Mars\\HepsiBurada_Mars\\HepsiBurada_Mars.csproj",
+      "projectUniqueName": "C:\\Users\\kaan5\\source\\repos\\hepsi\\HepsiBurada_Mars\\HepsiBurada_Mars.csproj",
       "projectName": "HepsiBurada_Mars",
-      "projectPath": "C:\\Users\\kaan5\\source\\repos\\HepsiBurada_Mars\\HepsiBurada_Mars\\HepsiBurada_Mars.csproj",
+      "projectPath": "C:\\Users\\kaan5\\source\\repos\\hepsi\\HepsiBurada_Mars\\HepsiBurada_Mars.csproj",
       "packagesPath": "C:\\Users\\kaan5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaan5\\source\\repos\\HepsiBurada_Mars\\HepsiBurada_Mars\\obj\\",
+      "outputPath": "C:\\Users\\kaan5\\source\\repos\\hepsi\\HepsiBurada_Mars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaan5\\AppData\\Roaming\\NuGet\\NuGet.Config",
