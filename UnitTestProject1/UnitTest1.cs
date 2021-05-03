@@ -9,7 +9,7 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public void TestScanrio_12N_LMLMLMLMM()
+        public void TestScanrio_12N_LMLMLMLMM() 
         {
             HepsiBurada_Mars_Control.HepsiBurada_Mars_Control HepsiBurada_Mars_Control = new HepsiBurada_Mars_Control.HepsiBurada_Mars_Control()
             {
